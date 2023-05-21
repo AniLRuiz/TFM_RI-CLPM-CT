@@ -1,7 +1,3 @@
-# Feb 28th 2023
-
-citation("OpenMx")
-
 library(ggplot2)
 #library(patchwork)
 #library(MASS)
